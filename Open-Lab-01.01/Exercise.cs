@@ -9,7 +9,7 @@ namespace Open_Lab_01._01
             int number = Int32.Parse(input);
             if (number < 10)
             {
-                return true;
+                return true;// jarolim
             }
             else
             {
