@@ -6,10 +6,10 @@ namespace Open_Lab_01._01
     {
         public bool IsLessThan10(string input)
         {
-            int number = Int32.Parse(input);
-            if (number < 10)
+            int cislo1 = Int32.Parse(input);
+            if (cislo1 < 10)
             {
-                return true;// jarolim
+                return true;
             }
             else
             {
